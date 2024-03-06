@@ -1,0 +1,80 @@
+body{   /*this body section will add styles to the whole page*/
+    background-color: grey; /*This changes the background colour*/
+    text-align: center; /*This piece of code makes all content center in to the middle*/
+    
+} 
+
+
+
+.top{
+    background-color: orange;
+    height: 200px;
+    width: 100%;
+    float: left;
+
+}
+
+.l{ /*navigation bar*/
+    background-color: rgb(243, 52, 4);
+    height: 1200px;
+    width: 15%;
+    float: left;
+}
+
+.m{ /*not used*/
+    
+    height: 300px;
+    width: 10%;
+    float: left;
+}
+
+.r{ /*container for main content*/
+    background-color: rgb(221, 161, 210);
+    height: 1200px;
+    width: 50%;
+    float: left;
+}
+.limage{ /*container for main content*/
+    background-color: rgb(221, 161, 210);
+    height: 1200px;
+    width: 30%;
+    float: left;
+}
+.rimage{ /*container for main content*/
+    background-color: rgb(221, 161, 210);
+    height: 1200px;
+    width: 20%;
+    float: left;
+}
+nav{
+    background-color: rgb(221, 161, 210);
+    height: 50px;
+    width: 80%;
+    margin-left: 5%;
+   margin-top: 5%;
+}
+
+ul{
+    list-style-type: none; /*removes the bullets*/
+}
+
+li{
+    float: left; /*makes the links go next to each other*/
+}
+
+li a{
+    display: block; 
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    text-decoration: none;
+    padding-top: 5px;
+    padding-left: 20px;
+}
+
+li a:hover {
+    color:gray;
+}
+
+
+
