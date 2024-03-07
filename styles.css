@@ -1,5 +1,5 @@
 body{   /*this body section will add styles to the whole page*/
-    background-color: grey; /*This changes the background colour*/
+    background-color: rgb(197, 184, 184); /*This changes the background colour*/
     text-align: center; /*This piece of code makes all content center in to the middle*/
     
 } 
@@ -7,7 +7,7 @@ body{   /*this body section will add styles to the whole page*/
 
 
 .top{
-    background-color: orange;
+    background-color: rgb(0, 38, 255);
     height: 200px;
     width: 100%;
     float: left;
@@ -29,25 +29,25 @@ body{   /*this body section will add styles to the whole page*/
 }
 
 .r{ /*container for main content*/
-    background-color: rgb(221, 161, 210);
+    background-color: rgb(10, 156, 34);
     height: 1200px;
     width: 50%;
     float: left;
 }
 .limage{ /*container for main content*/
-    background-color: rgb(221, 161, 210);
+    background-color: rgb(10, 156, 34);
     height: 1200px;
     width: 30%;
     float: left;
 }
 .rimage{ /*container for main content*/
-    background-color: rgb(221, 161, 210);
+    background-color: rgb(10, 156, 34);
     height: 1200px;
     width: 20%;
     float: left;
 }
 nav{
-    background-color: rgb(221, 161, 210);
+    background-color: rgb(10, 156, 34);
     height: 50px;
     width: 80%;
     margin-left: 5%;
